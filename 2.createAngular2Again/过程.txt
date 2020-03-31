@@ -1,0 +1,10 @@
+1.确保node.js和npm的版本合适
+2.安装TypeScript
+    $ npm install -g typescript
+3.安装Angular CLI
+    $ npm install -g @angular/cli
+4.创建新项目
+    $ ng new 项目名
+5.运行应用程序
+    $ cd 项目名
+    $ ng serve
